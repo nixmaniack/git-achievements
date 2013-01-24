@@ -2,6 +2,12 @@
 <title>Muneeb Shaikh's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
+<item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -16,10 +22,4 @@
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
